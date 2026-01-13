@@ -17,7 +17,7 @@ Embora o terminal seja minha casa, também me sinto à vontade no frontend para 
 * 🔧 Adoro desmontar coisas para entender como funcionam (na vida real e no código).
 
 
-### 📫 Vamos conectar?
+### Vamos conectar?
 Se você quer falar sobre arquitetura de sistemas, performance ou apenas trocar uma ideia sobre código:
 
 [Linkedin](https://www.linkedin.com/in/kayque-agape-/)
