@@ -1,6 +1,6 @@
 # Olá!👋
 
-Eu sou [Kayque](kayque.agpecgmail.com) um **desenvolvedor backend**  
+Eu sou **[Kayque](kayque.agpecgmail.com)** um **desenvolvedor backend**  
 
 Eu projeto e construo a inteligência por trás das interfaces. Se uma ideia surge, eu não descanso até que ela tenha uma arquitetura sólida, uma API performática e esteja rodando em produção.
 
@@ -19,4 +19,5 @@ Embora o terminal seja minha casa, também me sinto à vontade no frontend para 
 
 ### 📫 Vamos conectar?
 Se você quer falar sobre arquitetura de sistemas, performance ou apenas trocar uma ideia sobre código:
+
 [Linkedin](https://www.linkedin.com/in/kayque-agape-/)
