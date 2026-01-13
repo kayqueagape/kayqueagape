@@ -9,15 +9,14 @@ Embora o terminal seja minha casa, também me sinto à vontade no frontend para 
 ### 🛠️ Tech Stack & Ferramentas
 * **Main Stack:** Node.js, Typescript, MongoDb, PostgreSQL e Docker.
 * **Frontend side:** React e Tailwind CSS.
+* **Ferramentas:** Postman.
 
----
-
-### ⚡ Fun Facts
-* ☕ Eu [bebo] café (minha energia vem de [outra coisa]).
-* 🎧 Programo ouvindo [estilo de música/lo-fi] para entrar no flow.
+### Fatos Sobre Mim:
+* ☕ Eu [bebo] café.
+* 🎧 Programo ouvindo [lo-fi] para entrar no flow.
 * 🔧 Adoro desmontar coisas para entender como funcionam (na vida real e no código).
 
 
 ### 📫 Vamos conectar?
 Se você quer falar sobre arquitetura de sistemas, performance ou apenas trocar uma ideia sobre código:
-[https://www.linkedin.com/in/kayque-agape/]
+[https://www.linkedin.com/in/kayque-agape-/]
