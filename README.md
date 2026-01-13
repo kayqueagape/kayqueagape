@@ -6,7 +6,7 @@ Eu projeto e construo a inteligência por trás das interfaces. Se uma ideia sur
 
 Embora o terminal seja minha casa, também me sinto à vontade no frontend para garantir que a engrenagem completa funcione sem atritos.
 
-### 🛠️ Tech Stack & Ferramentas
+### Tech Stack & Ferramentas
 * **Main Stack:** Node.js, Typescript, MongoDb, PostgreSQL e Docker.
 * **Frontend side:** React e Tailwind CSS.
 * **Ferramentas:** Postman.
