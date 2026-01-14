@@ -12,9 +12,9 @@ Embora o terminal seja minha casa, também me sinto à vontade no frontend para 
 * **Ferramentas:** Postman.
 
 ### Fatos Sobre Mim:
-* ☕ Eu [bebo] café.
-* 🎧 Programo ouvindo [lo-fi] para entrar no flow.
-* 🔧 Adoro desmontar coisas para entender como funcionam (na vida real e no código).
+* ☕ Eu **bebo** café.
+* 🎧 Programo ouvindo **lo-fi** para entrar no flow.
+* 🔧 Adoro desmontar coisas para entender como funcionam **na vida real e no código**.
 
 
 ### Vamos conectar?
