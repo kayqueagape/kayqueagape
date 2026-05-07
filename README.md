@@ -13,7 +13,7 @@ garantir que a engrenagem completa funcione sem atritos.
 
 ## 🛠️ Tech Stack & Ferramentas
 
-- **Backend:** Node.js, Express, JavaScript
+- **Backend:** Node.js, Express, JavaScript, Redis
 - **Banco de dados:** MongoDB, PostgreSQL
 - **Frontend:** React, Tailwind CSS
 - **DevOps & Ferramentas:** Docker, Postman
